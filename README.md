@@ -6,7 +6,7 @@ MINI Dashboard User APP is a web-based application built with Java Servlet Pages
 
 ## Tech Stack
 
-**Client:** Java, JSP, JQuery, Bootstrap, Tomcat 10
+**Client:** Java, JSP, JQuery, Bootstrap, Tomcat 10, maven
 
 
 ## Features Client
