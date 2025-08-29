@@ -19,7 +19,7 @@ MINI Dashboard User APP is a web-based application built with Java Servlet Pages
 Clone Project Repository
 
 ```bash
-  git clone https://github.com/Myudhaap/ASPNET-contract-app.git
+  git clone https://github.com/Myudhaap/JASP-project.git
 ```
 
 ## Dummy User
